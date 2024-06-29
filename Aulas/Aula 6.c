@@ -4,15 +4,15 @@
 
 void main(){
     setlocale(LC_ALL, "");
-    //Exercício: Crie um algoritimo que leia 3 numeros de uma vez só
-    //coloque o resultado da multiplicação entre os 3 em uma variável própria
-    //depois exiba essa variável
-    int a, b, c;
-    printf("Digite 3 números: ");
-    scanf("%d %d %d", &a, &b, &c);
+    //Crie um algoritmo que leia duas notas e mostre o
+    //valor absoluto da difereça entre elas
+    int n1, n2;
+    printf("Digine um número: ");
+    scanf("%d", &n1);
+    printf("Digite um segundo número: ");
+    scanf("%d", &n2);
+    printf("O valor da diferença entre %d - %d = %d", n1, n2, n1-n2);
+    printf("\nO valor absoluto é: %d", abs(n1 - n2));
 
-    int resultado = a*b*c;
-
-    printf("O valor de a x b x c = %d", resultado);
 
 }

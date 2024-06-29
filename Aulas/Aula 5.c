@@ -4,15 +4,15 @@
 
 void main(){
     setlocale(LC_ALL, "");
-    //Crie um algoritmo que leia duas notas e mostre o
-    //valor absoluto da difereça entre elas
-    int n1, n2;
-    printf("Digine um número: ");
-    scanf("%d", &n1);
-    printf("Digite um segundo número: ");
-    scanf("%d", &n2);
-    printf("O valor da diferença entre %d - %d = %d", n1, n2, n1-n2);
-    printf("\nO valor absoluto é: %d", abs(n1 - n2));
-
+    //Criando uma média com 3 notas para exercitar
+    float n1, n2, n3, media;
+    printf("Digite a primeira nota: ");
+    scanf("%f", &n1);
+    printf("Digite a segunda nota: ");
+    scanf("%f", &n2);
+    printf("Digite a segunda nota: ");
+    scanf("%f", &n3);
+    media = (n1 + n2 + n3)/3;
+    printf("A media entre %f, %f e %f é: %f", n1, n2, n3, media);
 
 }
