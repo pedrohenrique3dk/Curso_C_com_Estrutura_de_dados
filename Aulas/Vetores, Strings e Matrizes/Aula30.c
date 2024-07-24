@@ -17,6 +17,6 @@ void main(){
     float media;
     media = ((vetorDeFloat[0] + vetorDeFloat[1] + vetorDeFloat[2])/TAM);
     printf("\n---------------------------------------------------------------");
-    printf("\nA média dos valores %f, %f e %f é: %f", vetorDeFloat[0], vetorDeFloat[1], vetorDeFloat[2], media);
+    printf("\nA média dos valores %.2f, %.2f e %.2f é: %.2f", vetorDeFloat[0], vetorDeFloat[1], vetorDeFloat[2], media);
     printf("\n---------------------------------------------------------------");
 }
