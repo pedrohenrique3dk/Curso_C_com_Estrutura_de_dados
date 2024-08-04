@@ -39,7 +39,7 @@
 
 |  CÓDIGO DO PROJETO |APRESENTAÇÃO DO PROJETO |
 |---------------------------------------------|--------------------------------------------------|
-|<a href="https://github.com/pedrohenrique3dk/Curso_Python_Avancado/blob/main/Projetos/Gerador_CPF.py"><img src="https://github.com/user-attachments/assets/e91b0635-e549-4149-8f26-39d82134c742" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://youtu.be/gpWL-qO0wLM"><img src="https://github.com/user-attachments/assets/041b3138-ab49-458c-82b5-1b48977e0ea9" alt = "codigo" width="400" height="250" max-width=100%></a>|
+|<a href="https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados/blob/main/08%20-%20Structs/Aula52.c"><img src="https://github.com/user-attachments/assets/e91b0635-e549-4149-8f26-39d82134c742" alt = "codigo" width="400" height="250" max-width = 100%></a>|<a href="https://youtu.be/gpWL-qO0wLM"><img src="https://github.com/user-attachments/assets/041b3138-ab49-458c-82b5-1b48977e0ea9" alt = "codigo" width="400" height="250" max-width=100%></a>|
 
 
 </div>
