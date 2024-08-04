@@ -1,6 +1,6 @@
 <div align='center'>
 
-| <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO <img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">|
+|<img align="center" alt="C++" height="21" width="31" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"><img align="center" alt="C" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"> PROJETOS FEITOS NO CURSO DE PYTHON COMPLETO <img align="center" alt="C++" height="21" width="31" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"><img align="center" alt="C" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">|
 |------------------------------------------------------------------------------|
 
 </div>
@@ -19,7 +19,7 @@
 
 ---
 
-⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique nO gif na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
+⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique no GIF na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
 
 ⚠️ AVISO 2: Se quiser ver o funcionamento do projeto em vídeo clique no GIF na caixa APRESENTAÇÃO DO PROJETO e você será redirecionado para o vídeo de uma breve apresentação do projeto que está postado no youtube.
 
@@ -28,10 +28,10 @@
 
 <div align='center'>
 
-<img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><i> PROJETO GERADOR DE CPF </i><img align="center" alt="Python" height="20" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="C++" height="21" width="31" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"><i> PROJETO CADASTRO DE CLIENTES </i>
+<img align="center" alt="C" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
-
-|O Projeto 'Gerador de CPF' consiste em criar um programa que consiga gerar aleatóriamente um CPF válido de acordo com o cálculo que é feito pela própria receita federal ao gerar um novo CPF. No video usamos um site que faz validação de CPF para mostrar que os CPF's gerados pelo programa feito nesse projeto são considerados verdadeiros, ou seja, válidados para uso.|
+|No PROJETO abaixo eu tive de criar um formulario de cadastro com STRUCTS. Neste formulario eu tive de receber nome, telefone, endereço e data de nascimento. Como endereço  e data de nascimento são compostos por outros elementos, eu criei para cada um deles um novo struct com as componentes de endereço e data, respectivamente. Após receber os dados eu imprimo eles na dela mostrando que o código recebeu os dados corretamente e armazenou eles nos structs criados..|
 |-------------------------------------------------------|
 
 </div>
