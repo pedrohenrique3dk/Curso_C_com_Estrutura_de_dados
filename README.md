@@ -31,7 +31,7 @@
 <img align="center" alt="C++" height="21" width="31" src="https://icongr.am/devicon/cplusplus-original.svg?size=128&color=currentColor"><i> PROJETO CADASTRO DE CLIENTES </i>
 <img align="center" alt="C" height="20" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 
-|No PROJETO abaixo eu tive de criar um formulario de cadastro com STRUCTS. Neste formulario eu tive de receber nome, telefone, endereço e data de nascimento. Como endereço  e data de nascimento são compostos por outros elementos, eu criei para cada um deles um novo struct com as componentes de endereço e data, respectivamente. Após receber os dados eu imprimo eles na dela mostrando que o código recebeu os dados corretamente e armazenou eles nos structs criados..|
+|No abaixo eu tive de criar um formulario de cadastro com STRUCTS. Neste formulario eu tive de receber nome, telefone, endereço e data de nascimento. Como endereço  e data de nascimento são compostos por outros elementos, eu criei para cada um deles um novo struct com as componentes de endereço e data, respectivamente. Após receber os dados eu imprimo eles na dela mostrando que o código recebeu os dados corretamente e armazenou eles nos structs criados..|
 |-------------------------------------------------------|
 
 </div>
