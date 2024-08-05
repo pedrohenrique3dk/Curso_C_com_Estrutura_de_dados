@@ -33,10 +33,11 @@
 ___
 
 > [!WARNING]
->⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique no GIF na caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
+>⚠️ AVISO 1: Se quiser ser encaminhado para o arquivo que contém o código do projeto, clique no GIF abaixo da caixa CÓDIGO DO PROJETO e você será redirecionado ao arquivo para download.&nbsp;
 > 
->⚠️ AVISO 2: Se quiser ver o funcionamento do projeto em vídeo clique no GIF na caixa APRESENTAÇÃO DO PROJETO e você será redirecionado para o vídeo de uma breve apresentação do projeto que está postado no youtube.
-
+>⚠️ AVISO 2: Se quiser ver o funcionamento do projeto em vídeo clique no GIF abaixo da caixa APRESENTAÇÃO DO PROJETO e você será redirecionado para o vídeo de uma breve apresentação do projeto que está postado no youtube.
+>
+> ⚠️ AVISO 3: Se você estiver em Mobile, clique no 1° GIF para ser redirecionado para o código do projeto e no 2° GIF para ser redirecionado para o vídeo com a apresentação do projeto no youtube.
 ___
 
 
@@ -86,7 +87,7 @@ https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados
 
 ---
 
-<a href="https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados/blob/main/08%20-%20Structs/Aula52.c"><img src="https://github.com/user-attachments/assets/e91b0635-e549-4149-8f26-39d82134c742" alt = "codigo" width="500" height="250" max-width = 100%></a>  <a href="https://youtu.be/gpWL-qO0wLM"><img src="https://github.com/user-attachments/assets/041b3138-ab49-458c-82b5-1b48977e0ea9" alt = "codigo" width="500" height="250" max-width=100%></a>
+<a href="https://github.com/pedrohenrique3dk/Curso_C_com_Estrutura_de_dados/blob/main/08%20-%20Structs/Aula52.c"><img src="https://github.com/user-attachments/assets/e91b0635-e549-4149-8f26-39d82134c742" alt = "codigo" width="400" height="250" max-width = 100%></a>  <a href="https://youtu.be/gpWL-qO0wLM"><img src="https://github.com/user-attachments/assets/041b3138-ab49-458c-82b5-1b48977e0ea9" alt = "codigo" width="400" height="250" max-width=100%></a>
 
 ---
 
