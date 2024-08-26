@@ -27,8 +27,7 @@ void fila_enfileirar(int fila[TAM], int valor, int *tras){
     } 
 }
 void fila_desenfileirar(int fila[TAM], int frente){
-    printf("\n");
-    printf("O valor %d foi removido.", fila[frente]);
+    printf("O valor %d foi removido....6\n", fila[frente]);
     fila[frente] = 0;
     fila++;
 }
@@ -43,9 +42,8 @@ int main(void){
     printf("Me de a quantidade de valores que quer colocar no vetor: ");
     scanf("%d", &valor);
     for(cont = 0; cont < valor; cont++ ){
-        printf("\n");
         fila_enfileirar(fila, (cont + 3) , &tras);
-    }
+    };
     printf("\n");
     printf("Fila com itens adicionados: ");
     printf("\n");
